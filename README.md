@@ -36,7 +36,7 @@ I’ve uploaded all the videos of the simulation and results in the `Videos` fol
 
 ## Try it out
 You can run this project directly on Wokwi here:  
-[Wokwi Project Link](https://wokwi.com/projects/placeholder](https://wokwi.com/projects/434542820877416449)
+(Wokwi Project Link](https://wokwi.com/projects/434542820877416449)
 
 ---
 This was a fun little project that helped me understand waveform synthesis using lookup tables and how PWM can be used to simulate analog signals digitally.
